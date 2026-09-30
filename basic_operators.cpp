@@ -12,4 +12,8 @@ int main() {
     cout<<"a/b= "<<(a/b)<<endl;
     //modulo
     cout<<"a%b= "<<(a%b)<<endl;
+    //increment
+    cout<<"++a= "<<(++a)<<endl;
+    //decrement
+    cout<<"b--= "<<(b--)<<endl;
 }
